@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Carlos Augusto</h1>
-<h3 align="center">Estou estudando Engenharia de Software, com foco em Análise e Ciência de Dados</h3>
+<h3 align="center">Estou estudando Engenharia de Software, com foco em Front end!! </h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
